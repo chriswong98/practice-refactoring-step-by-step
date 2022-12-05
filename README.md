@@ -4,3 +4,5 @@
 2. find code smell
     //useless code: id
     //mysterious name: checkDriver,d a
+    //magic number: 18
+    //
